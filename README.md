@@ -1,4 +1,4 @@
-Random Password Generator
+#Random Password Generator
 Welcome to the Random Password Generator project! This project provides a simple web application that generates random, secure passwords using basic HTML, CSS, and JavaScript. Additionally, it includes the functionality to copy the generated password to your clipboard.
 1) Table of Contents
 2) Features
